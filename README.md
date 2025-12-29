@@ -1,76 +1,37 @@
-📦 Amazon Clone Website
+# 📦 Amazon Clone Website
 
-This is a frontend Amazon Clone website built using HTML, CSS, and JavaScript.
-The project replicates the UI and basic layout of Amazon for learning and practice purposes.
+This is a frontend Amazon Clone website built using HTML, CSS, and JavaScript.  
+The project replicates the UI and layout of Amazon for learning purposes.
 
-🔗 Live Demo:
-👉 yaha apna GitHub Pages / Vercel link daalo
+## 🔗 Live Demo
+https://https://amazon-clone-project-bay.vercel.app/
 
-🚀 Features
+## 🚀 Features
+- Responsive homepage layout
+- Amazon-like header and navigation bar
+- Product cards with images and pricing
+- Footer similar to Amazon
+- Mobile & desktop responsive
 
-Responsive homepage layout
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
-Amazon-like header & navigation bar
-
-Product cards with images, price & rating
-
-Footer section similar to Amazon
-
-Fully responsive design (mobile & desktop)
-
-⚠️ This is a UI clone only. No real shopping or payments are supported.
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-GitHub Pages (for deployment)
-
-📂 Project Structure
+## 📂 Project Structure
 amazon-clone/
 │
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── README.md
+├── index.html  
+├── style.css  
+├── script.js  
+├── images/  
+└── README.md  
 
-📸 Screenshots
+## 📌 Disclaimer
+This project is created only for educational purposes.  
+Amazon and its logos are trademarks of Amazon.com, Inc.
 
-(Optional but highly recommended)
-Add screenshots of your project UI here:
-
-![Homepage](screenshots/homepage.png)
-
-🎯 Purpose of Project
-
-Practice frontend development skills
-
-Improve HTML & CSS layout concepts
-
-Understand real-world website structure
-
-Build projects for portfolio
-
-📌 Disclaimer
-
-This project is created only for educational purposes.
-All product names, logos, and brands belong to Amazon.
-
-👤 Author
-
-Abhiraj Kumar
-
+## 👤 Author
+**Abhiraj Kumar**  
 GitHub: https://github.com/abhirajkumar19
-
-Portfolio: agar hai to link
-
-LinkedIn: optional
-
-⭐ Feedback
-
-If you like this project, feel free to star ⭐ the repository and give feedback!
